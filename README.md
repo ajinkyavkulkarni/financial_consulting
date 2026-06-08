@@ -8,12 +8,16 @@ The Thesis in One Line
 Legacy IT offers stable, dividend-backed compounding. New-Age Tech offers asymmetric upside — the sector crossed operational break-even for the first time in FY25, and the market hasn't fully priced the inflection.
 
 Repository Contents
+
 FileDescriptionDeck.pdf -
+
 Full investment thesis — Porter's Five Forces & PESTEL for both sectors, trajectory diagnosis FY21–FY30E, financial statement rationale (P&L for Legacy IT vs Cash Flow for New-Age), DCF outputs, and a ₹2.7L Cr Tata–Eternal M&A proposal
 
-TCS_DCF_Full_Model.xlsx7-tab bottom-up 
+TCS_DCF_Full_Model.xlsx7-tab bottom-up -
+
 DCF for TCS — segment-level income statement, FCFF build, Gordon Growth terminal value, sensitivity tables (WACC ±2% × TGR ±1%), and comparable companies
 
-Zomato_DCF.xlsxSegment-level 
+Zomato_DCF.xlsxSegment-level -
+
 DCF for Eternal Ltd. — separate forecasts for Food Delivery, Blinkit, Hyperpure, and District; Exit Multiple terminal value; tax shield modelling on ₹12,000 Cr loss carryforward
 
